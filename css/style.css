@@ -10,7 +10,7 @@
 }
 html,
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 13px;
   color: #777777;
   background: #FFFFFF;
@@ -276,7 +276,7 @@ a:hover {
 }
 .portfolio ul li .portio-item .portio-picture .portio-image {
   width: 100%;
-  height: auto;
+  height: 450px;
 }
 .portfolio ul li .portio-item .portio-content {
   border: 1px solid #E4E8E8;
@@ -610,7 +610,7 @@ a:hover {
 /* -------------------- Footer Section ----------------------- */
 .footer {
   background: #282C2E;
-  padding: 20px 0 15px 0;
+  padding: 20px 0px 15px 0px;
 }
 .footer .footer-menu {
   text-align: right;
@@ -623,6 +623,7 @@ a:hover {
 .footer .footer-menu a:hover {
   color: #d63031;
 }
+
 /* -------------------- Form Controls ----------------------- */
 .contact-form-control {
   border-radius: 0;
@@ -702,4 +703,8 @@ ul.social-media-list {
 }
 #loadMore a:hover {
   background-color: #ff4646;
+}
+
+.header-logo {
+  padding: 15px;
 }
