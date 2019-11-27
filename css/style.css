@@ -471,7 +471,7 @@ a:hover {
 }
 .blog .blog-item .blog-picture .blog-image {
   width: 100%;
-  min-height: 210px;
+  height: 250px;
 }
 .blog .blog-item .blog-picture .blog-image:hover {
   opacity: 0.3;
